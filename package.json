@@ -1,0 +1,10 @@
+{
+  "name": "orgview-original-public-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Original OrgView modeler adapted for fictional, browser-local demonstrations",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test tests/public-edition.test.cjs"
+  }
+}

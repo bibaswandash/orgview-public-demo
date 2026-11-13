@@ -1,0 +1,3 @@
+Export libraries extracted unchanged from the existing OrgView-standalone.html bundle.
+html2canvas 1.4.1; jsPDF 2.5.1; PptxGenJS 3.12.0; SheetJS 0.20.1; CCapture 1.1.0.
+License headers in each bundled library are retained. See licenses directory for upstream license texts.
